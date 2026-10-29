@@ -1,0 +1,6 @@
+{
+  "name": "Secure USB Photo Vault",
+  "description": "Android-inspired secure photo and video vault for USB OTG pen drives with AES-256-GCM encryption and zero-knowledge PIN protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
